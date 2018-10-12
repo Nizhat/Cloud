@@ -15,8 +15,8 @@ namespace HelloWebApi.Controllers
             this.db = context;
             if (!db.Users.Any())
             {
-                db.Users.Add(new User { Name = "Tom", Age = 26 });
-                db.Users.Add(new User { Name = "Alice", Age = 31 });
+                db.Users.Add(new User { Name = "Nizhat", Age = 20 });
+                db.Users.Add(new User { Name = "Zhasaral", Age = 27 });
                 db.SaveChanges();
             }
         }

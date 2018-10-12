@@ -11537,11 +11537,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nizhat\\Desktop\\HelloWebApi\\HelloWebApi.csproj",
+      "projectUniqueName": "C:\\Users\\Nizhat\\Desktop\\Облачные вычисления\\HelloWebApi\\HelloWebApi.csproj",
       "projectName": "HelloWebApi",
-      "projectPath": "C:\\Users\\Nizhat\\Desktop\\HelloWebApi\\HelloWebApi.csproj",
+      "projectPath": "C:\\Users\\Nizhat\\Desktop\\Облачные вычисления\\HelloWebApi\\HelloWebApi.csproj",
       "packagesPath": "C:\\Users\\Nizhat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nizhat\\Desktop\\HelloWebApi\\obj\\",
+      "outputPath": "C:\\Users\\Nizhat\\Desktop\\Облачные вычисления\\HelloWebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
